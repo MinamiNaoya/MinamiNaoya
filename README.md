@@ -6,3 +6,6 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MinamiNaoya)](https://github.com/ryo-ma/github-profile-trophy)
+
+## ブログ
+https://minaminaoya.github.io/blog
