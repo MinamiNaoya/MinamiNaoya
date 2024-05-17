@@ -6,7 +6,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MinamiNaoya)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+## Languages
+<picture>
+<sorce media="../images/python.png">
+</picture>
 
 ## ブログ
 https://minaminaoya.github.io/blog
