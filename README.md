@@ -8,7 +8,7 @@
 
 
 ## ブログ
-https://minaminaoya.github.io/blog
+https://vetit-sabineko.netlify.app/
 
 <picture>
  <sorce media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MinamiNaoya/MinamiNaoya/output/github-contribution-grid-snake-dark.svg"></sorce>
