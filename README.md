@@ -1,5 +1,8 @@
  ### Hi there 👋
- 目標：AIを用いてゾウのがん抑制機構を解明する。
+ Utilizing AI to Uncover Mechanisms of Cancer Resistance in Animals
+
+ ![ゾウ](https://github.com/MinamiNaoya/MinamiNaoya/blob/main/Elephant.jpg)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinamiNaoya&layout=compact&hide=html,css,Roff,CMake,Makefile,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
