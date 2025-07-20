@@ -17,6 +17,12 @@
  <img alt="githun contribution grid snake animation" src="https://raw.githubusercontent.com/MinamiNaoya/MinamiNaoya/output/github-contribution-grid-snake.svg">
 </picture>
 
+## Lab
+Main Lab  
+https://www.kitasato-u.ac.jp/vmas/lab/veterinary-biochemistry-laboratory  
+Online Lab  
+https://shimizuhideyuki-lab.org/n_minami/  
+
 ## Publication 
 [Enhanced sensitivity, robust p21 activation, and sustained DNA repair responses to interstrand crosslinks in elephant cells compared to humans](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2025.1570720/full)
 >Taisuke Kitano, Zida Zhu, Naoya Minami, Koichi Orino, Yasunaga Yoshikawa
