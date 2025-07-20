@@ -18,6 +18,6 @@
 </picture>
 
 ## Publication 
->Enhanced sensitivity, robust p21 activation, and sustained DNA repair responses to interstrand crosslinks in elephant cells compared to humans
-Taisuke Kitano, Zida Zhu, Naoya Minami, Koichi Orino, Yasunaga Yoshikawa
-https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2025.1570720/full
+[Enhanced sensitivity, robust p21 activation, and sustained DNA repair responses to interstrand crosslinks in elephant cells compared to humans](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2025.1570720/full)
+>Taisuke Kitano, Zida Zhu, Naoya Minami, Koichi Orino, Yasunaga Yoshikawa
+
