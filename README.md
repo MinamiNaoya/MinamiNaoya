@@ -16,3 +16,7 @@
  <sorce media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MinamiNaoya/MinamiNaoya/output/github-contribution-grid-snake.svg"></sorce>
  <img alt="githun contribution grid snake animation" src="https://raw.githubusercontent.com/MinamiNaoya/MinamiNaoya/output/github-contribution-grid-snake.svg">
 </picture>
+
+Papers
+co-author 
+https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2025.1570720/full
