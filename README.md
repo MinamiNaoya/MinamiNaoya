@@ -26,6 +26,9 @@ https://shimizuhideyuki-lab.org/n_minami/
 ## Researchmap
 https://researchmap.jp/n_minami
 
+## Blog
+https://vetit-sabineko.netlify.app/
+
 ## Publication 
 [Enhanced sensitivity, robust p21 activation, and sustained DNA repair responses to interstrand crosslinks in elephant cells compared to humans](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2025.1570720/full)
 >Taisuke Kitano, Zida Zhu, Naoya Minami, Koichi Orino, Yasunaga Yoshikawa
