@@ -27,7 +27,8 @@ https://shimizuhideyuki-lab.org/n_minami/
 https://researchmap.jp/n_minami
 
 ## Blog
-https://vetit-sabineko.netlify.app/
+https://vetit-sabineko.netlify.app/  
+https://note.com/sabineko_vet1622
 
 ## Publication 
 [Enhanced sensitivity, robust p21 activation, and sustained DNA repair responses to interstrand crosslinks in elephant cells compared to humans](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2025.1570720/full)
