@@ -10,6 +10,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MinamiNaoya)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 <picture>
  <sorce media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MinamiNaoya/MinamiNaoya/output/github-contribution-grid-snake-dark.svg"></sorce>
  <sorce media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MinamiNaoya/MinamiNaoya/output/github-contribution-grid-snake.svg"></sorce>
