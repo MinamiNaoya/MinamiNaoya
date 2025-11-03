@@ -1,5 +1,5 @@
  ### Hi there 👋
- Utilizing LLM to Uncover Mechanisms of Cancer Resistance in Animals
+ Utilizing gLMs to Uncover Mechanisms of Cancer Resistance in Animals
 
  ![ゾウ](https://github.com/MinamiNaoya/MinamiNaoya/blob/main/african-elephant.jpg)
 
