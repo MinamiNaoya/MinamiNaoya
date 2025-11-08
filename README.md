@@ -27,7 +27,7 @@ https://shimizuhideyuki-lab.org/n_minami/
 https://researchmap.jp/n_minami
 
 ## Blog
-https://vetit-sabineko.netlify.app/  
+https://vetit-sabineko.netlify.app/(メンテナンス中)  
 https://note.com/sabineko_vet1622
 
 ## Publication 
