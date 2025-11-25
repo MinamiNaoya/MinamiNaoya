@@ -1,5 +1,5 @@
  ### Hi there 👋
- Utilizing gLMs to Uncover Mechanisms of Cancer Resistance in Animals
+Integrating gLMs and Evolutionary Genomics to Uncover Mechanisms of Cancer Resistance Across Species
 
  ![ゾウ](https://github.com/MinamiNaoya/MinamiNaoya/blob/main/african-elephant.jpg)
 
