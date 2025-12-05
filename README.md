@@ -30,6 +30,10 @@ https://researchmap.jp/n_minami
 https://vetit-sabineko.netlify.app/(メンテナンス中)  
 https://note.com/sabineko_vet1622
 
+## Contact
+vm21111"at"st.kitasato-u.ac.jp
+please replace "at" → @
+
 ## Publication 
 [Enhanced sensitivity, robust p21 activation, and sustained DNA repair responses to interstrand crosslinks in elephant cells compared to humans](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2025.1570720/full)
 >Taisuke Kitano, Zida Zhu, Naoya Minami, Koichi Orino, Yasunaga Yoshikawa
