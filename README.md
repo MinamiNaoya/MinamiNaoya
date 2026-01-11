@@ -31,7 +31,7 @@ https://vetit-sabineko.netlify.app/(メンテナンス中)
 https://note.com/sabineko_vet1622
 
 ## 64 Works
-FROTTIS SANGUIN
+FROTTIS SANGUIN  
 https://64works-frottis.netlify.app/
 
 ## Contact
