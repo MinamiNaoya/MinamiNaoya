@@ -42,3 +42,10 @@ vm21111 [at] st.kitasato-u.ac.jp
 [Enhanced sensitivity, robust p21 activation, and sustained DNA repair responses to interstrand crosslinks in elephant cells compared to humans](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2025.1570720/full)
 >Taisuke Kitano, Zida Zhu, Naoya Minami, Koichi Orino, Yasunaga Yoshikawa
 
+## Presentations
+
+### Oral Presentations  
+**Elucidation of DNA Damage Repair Mechanisms in Elephant Cells**, Kitasato Bioscience Forum, Towada, 2025.
+
+### Poster Presentations  
+**Cross-species Enhancer Prediction AI: Novel Approach to Cancer Resistance and Longevity in Mammals**, MBSJ, Yokohama, 2025.
