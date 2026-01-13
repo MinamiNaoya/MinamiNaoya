@@ -30,7 +30,7 @@ https://researchmap.jp/n_minami
 https://vetit-sabineko.netlify.app/(メンテナンス中)  
 https://note.com/sabineko_vet1622
 
-## 64 Works
+## 64 Works Demo
 FROTTIS SANGUIN  
 https://64works-frottis.netlify.app/
 
