@@ -30,7 +30,7 @@ https://researchmap.jp/n_minami
 https://vetit-sabineko.netlify.app/(メンテナンス中)  
 https://note.com/sabineko_vet1622
 
-## CrowdFunding(研究クラファン補助ページ)  
+## CrowdFunding(研究クラファン補助ページのドラフト)  
 https://kitasato-vet-biochem-crowd-funding.netlify.app/
 
 ## 64 Works
