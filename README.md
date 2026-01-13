@@ -46,6 +46,8 @@ vm21111 [at] st.kitasato-u.ac.jp
 
 ### Oral Presentations  
 **Elucidation of DNA Damage Repair Mechanisms in Elephant Cells**, Kitasato Bioscience Forum, Towada, 2025.
+> Taisuke Kitano, Zida Zhu, Naoya Minami, Koichi Orino, Yasunaga Yoshikawa
 
 ### Poster Presentations  
 **Cross-species Enhancer Prediction AI: Novel Approach to Cancer Resistance and Longevity in Mammals**, MBSJ, Yokohama, 2025.
+> Naoya Minami, Takumi Ito, Hideyuki Shimizu, Yasunaga Yoshikawa
