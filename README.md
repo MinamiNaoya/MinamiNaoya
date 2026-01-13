@@ -30,6 +30,9 @@ https://researchmap.jp/n_minami
 https://vetit-sabineko.netlify.app/(メンテナンス中)  
 https://note.com/sabineko_vet1622
 
+## CrowdFunding  
+https://kitasato-vet-biochem-crowd-funding.netlify.app/
+
 ## 64 Works
 FROTTIS SANGUIN  
 https://64works-frottis.netlify.app/
