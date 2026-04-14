@@ -19,7 +19,7 @@ Integrating gLMs and Evolutionary Genomics to Uncover Mechanisms of Cancer Resis
 
 ## Lab
 Main Lab  
-http://www.vmas.kitasato-u.ac.jp/biochemistry/index.html
+http://www.vmas.kitasato-u.ac.jp/biochemistry/index.html  
 Online Lab  
 https://shimizuhideyuki-lab.org/n_minami/  
 
