@@ -31,8 +31,7 @@ https://vetit-sabineko.netlify.app/(メンテナンス中)
 https://note.com/sabineko_vet1622
 
 ## 64 Works Demo  
-FROTTIS SANGUIN  
-https://64works-frottis.netlify.app/
+64works-lab.com
 
 ## Contact
 vm21111 [at] st.kitasato-u.ac.jp  
