@@ -31,7 +31,7 @@ https://vetit-sabineko.netlify.app/(メンテナンス中)
 https://note.com/sabineko_vet1622
 
 ## 64 Works Demo  
-64works-lab.com
+https://www.64works-lab.com/
 
 ## Contact
 vm21111 [at] st.kitasato-u.ac.jp  
