@@ -30,7 +30,7 @@ https://researchmap.jp/n_minami
 https://vetit-sabineko.netlify.app/(メンテナンス中)  
 https://note.com/sabineko_vet1622
 
-## 64 Works Demo  
+## 64 Works 
 https://www.64works-lab.com/
 
 ## Contact
